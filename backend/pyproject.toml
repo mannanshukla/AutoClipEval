@@ -1,0 +1,9 @@
+[project]
+name = "autoclipeval-backend"
+version = "0.1.0"
+description = "Backend for AutoClipEval, based on FastAPI Full Stack Template."
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.12",
+    "uvicorn[standard]>=0.29.0",
+] 
