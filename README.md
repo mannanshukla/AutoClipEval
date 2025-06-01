@@ -7,3 +7,4 @@ This project is structured based on the [FastAPI Full Stack Template](https://gi
 - `frontend/`: Frontend app (React, etc.)
 
 See the template repo for more details and best practices.
+try this: https://www.youtube.com/playlist?list=PLvogNjjlRFB61I0PANMUkgmyiarWBcgjz
