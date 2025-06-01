@@ -1,0 +1,57 @@
+[
+  {
+    "id": "Joe_Rogan_Reacts_to_AOC_MELTDOWN",
+    "rubric": {
+      "hook": true,
+      "hookWhy": "we love to all dunk on polticians",
+      "oneClaim": true,
+      "oneClaimWhy": "AOC is crazy",
+      "selfSufficient": true,
+      "selfSufficientWhy": "because its been done in complete sentences"
+    }
+  },
+  {
+    "id": "Joe_Rogan_Reacts_to_Bernie_Sanders_ROASTING_Donald_Trump",
+    "rubric": {
+      "hook": true,
+      "hookWhy": "we are intrigued to see why politicians are scared",
+      "oneClaim": true,
+      "oneClaimWhy": "they're scared because of Trump",
+      "selfSufficient": true,
+      "selfSufficientWhy": "Yes its in complete sentences"
+    }
+  },
+  {
+    "id": "Joe_Rogan_Reacts_to_CNN_Coverage_of_Elon_Musk",
+    "rubric": {
+      "hook": true,
+      "hookWhy": "We want to know what was done to Elon",
+      "oneClaim": true,
+      "oneClaimWhy": "The MSM purposely paints elon poorly",
+      "selfSufficient": true,
+      "selfSufficientWhy": "full sentences"
+    }
+  },
+  {
+    "id": "Joe_Rogan_Reacts_to_CNN_TANKING",
+    "rubric": {
+      "hook": true,
+      "hookWhy": "we want to know why cnn is failing",
+      "oneClaim": true,
+      "oneClaimWhy": "they're failing in ratings",
+      "selfSufficient": true,
+      "selfSufficientWhy": "full sentences"
+    }
+  },
+  {
+    "id": "Joe_Rogan_Reacts_to_CRAZY_Liberal_Ideology",
+    "rubric": {
+      "hook": true,
+      "hookWhy": "trans is a political buzzword",
+      "oneClaim": true,
+      "oneClaimWhy": "politeness culture bred trans in sports",
+      "selfSufficient": true,
+      "selfSufficientWhy": "yes its in full sentences"
+    }
+  }
+]
