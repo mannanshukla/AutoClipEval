@@ -8,3 +8,5 @@ This project is structured based on the [FastAPI Full Stack Template](https://gi
 
 See the template repo for more details and best practices.
 try this: https://www.youtube.com/playlist?list=PLvogNjjlRFB61I0PANMUkgmyiarWBcgjz
+
+run with `python -m http.server 8000`
