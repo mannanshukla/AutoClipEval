@@ -8,7 +8,7 @@ import asyncio
 import json
 import time
 import os
-from backend.score_new_rubric import process_text_async, analyze_hook_nlp, analyze_one_claim_nlp, analyze_self_sufficient_nlp
+from backend.app.score_new_rubric import process_text_async, analyze_hook_nlp, analyze_one_claim_nlp, analyze_self_sufficient_nlp
 import requests
 from typing import Dict, Any
 

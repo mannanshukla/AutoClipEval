@@ -6,7 +6,7 @@ Test script to verify the OpenAI Responses API implementation with structured ou
 import asyncio
 import json
 import os
-from backend.score_new_rubric import AsyncOpenAIClient
+from backend.app.score_new_rubric import AsyncOpenAIClient
 
 async def test_responses_api():
     """Test the Responses API implementation with structured outputs."""

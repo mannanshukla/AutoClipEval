@@ -6,7 +6,7 @@ Test script to verify OpenAI structured outputs implementation.
 import asyncio
 import os
 import json
-from backend.score_new_rubric import AsyncOpenAIClient
+from backend.app.score_new_rubric import AsyncOpenAIClient
 
 async def test_structured_outputs():
     """Test the structured outputs functionality."""
