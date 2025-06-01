@@ -1,4 +1,4 @@
-PHONY: clean
+PHONY: clean test run-server
 
 venv:
 	. backend/.venv/bin/activate
@@ -13,3 +13,9 @@ test-atlas: venv
 
 run-agents: venv
 	uv run backend/app/agents.py
+
+run-server:
+	cd backend && uvicorn app.main:app --reload
+
+test-openai:
+	python test_nlp_analysis.py

@@ -5,25 +5,55 @@
     "rubric": {
       "hook": true,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 9,
+      "main_idea_clarity": 8,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 9,
+      "distinctive_twist": 8,
+      "virality_potential": 8,
+      "engagement_potential": 8,
+      "overall_shorts_score": 7.8,
+      "viral_potential": "High"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_Bernie_Sanders_ROASTING_Donald_Trump",
     "script": "what a crazy time all these politicians what a crazy time all these politicians\nfreaking out it's amazing to watch all freaking out it's amazing to watch all freaking out it's amazing to watch all\nthese left-wing people we are living in these left-wing people we are living in these left-wing people we are living in\na pivotal moment in our country's a pivotal moment in our country's a pivotal moment in our country's\nhistory facing unprecedented challenges history facing unprecedented challenges history facing unprecedented challenges\nBernie Sanders making a post about how Bernie Sanders making a post about how Bernie Sanders making a post about how\nDonald Trump is trying to silence Donald Trump is trying to silence Donald Trump is trying to silence\nIndependent Media was the wildest fing Independent Media was the wildest fing Independent Media was the wildest fing\ngaslighting I think I've ever seen from gaslighting I think I've ever seen from gaslighting I think I've ever seen from\na politician yes they control our a politician yes they control our a politician yes they control our\neconomy and they own much of the media economy and they own much of the media economy and they own much of the media\nIndependent Media you meaning CBS you Independent Media you meaning CBS you Independent Media you meaning CBS you\nmean CBS that edited that KLA Harris mean CBS that edited that KLA Harris mean CBS that edited that KLA Harris\ninterview to make it look like she had a interview to make it look like she had a interview to make it look like she had a\nreally good point",
     "rubric": {
-      "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "hook": true,
+      "oneClaim": false,
+      "selfSufficient": false,
+      "early_engagement": 8,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 4,
+      "virality_potential": 7,
+      "engagement_potential": 7,
+      "overall_shorts_score": 6.5,
+      "viral_potential": "Medium"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_CNN_Coverage_of_Elon_Musk",
     "script": "There was a study that was done recently There was a study that was done recently\nthat showed that that showed that that showed that\n96% of all the stories that mainstream 96% of all the stories that mainstream 96% of all the stories that mainstream\nmedia prints about Elon are negative. media prints about Elon are negative. media prints about Elon are negative.\n96% in terms of political spending, I'm 96% in terms of political spending, I'm 96% in terms of political spending, I'm\ngoing to do a lot less in the future. going to do a lot less in the future. going to do a lot less in the future.\nAnd why is that? I think I've done And why is that? I think I've done And why is that? I think I've done\nenough. Meanwhile, the guys saved those enough. Meanwhile, the guys saved those enough. Meanwhile, the guys saved those\npeople trapped up in space. You didn't people trapped up in space. You didn't people trapped up in space. You didn't\nhear a peep. Is it because of blowback? hear a peep. Is it because of blowback? hear a peep. Is it because of blowback?\nWell, if I see a reason to political Well, if I see a reason to political Well, if I see a reason to political\nspending in the future, I will do it. I spending in the future, I will do it. I spending in the future, I will do it. I\ndon't currently see a reason. don't currently see a reason. don't currently see a reason.\nRevolutionizing space travel. Revolutionizing space travel. Revolutionizing space travel.\nrevolutionizing satellite internet revolutionizing satellite internet revolutionizing satellite internet\ncapabilities all over the world. It's capabilities all over the world. It's capabilities all over the world. It's\ncrazy. Some of it is like you don't even crazy. Some of it is like you don't even crazy. Some of it is like you don't even\nknow where it went. Some of the money know where it went. Some of the money know where it went. Some of the money\nthat there was billions of dollars that that there was billions of dollars that that there was billions of dollars that\nwas written out with no receipts at all. was written out with no receipts at all. was written out with no receipts at all.\nWell, there you go. The world's richest Well, there you go. The world's richest Well, there you go. The world's richest\nman, an adviser to the president, man, an adviser to the president, man, an adviser to the president,\nannouncing he will be dialing it back on announcing he will be dialing it back on announcing he will be dialing it back on\ncampaign spending. Elon Musk spent $290 campaign spending. Elon Musk spent $290 campaign spending. Elon Musk spent $290\nmillion in the 2024 election. And he million in the 2024 election. And he million in the 2024 election. And he\nsaid if this was a private company or said if this was a private company or said if this was a private company or\nexcuse me a public company they would be excuse me a public company they would be excuse me a public company they would be\ndelisted and all the executives be delisted and all the executives be delisted and all the executives be\nthrown in prison.",
     "rubric": {
-      "hook": true,
-      "oneClaim": true,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 9,
+      "distinctive_twist": 4,
+      "virality_potential": 5,
+      "engagement_potential": 7,
+      "overall_shorts_score": 4.7,
+      "viral_potential": "Low"
     }
   },
   {
@@ -31,26 +61,56 @@
     "script": "I think CNN's ratings are abysmal. Talk I think CNN's ratings are abysmal. Talk\nto you about CNN. It's prime time's to you about CNN. It's prime time's to you about CNN. It's prime time's\nratings dipped below 500,000 viewers. ratings dipped below 500,000 viewers. ratings dipped below 500,000 viewers.\nThe only thing that saves them. They The only thing that saves them. They The only thing that saves them. They\njust go on there out of habit. I don't just go on there out of habit. I don't just go on there out of habit. I don't\nthink people are seeking it out. This is think people are seeking it out. This is think people are seeking it out. This is\nnot just recent news. This has been a not just recent news. This has been a not just recent news. This has been a\nsteady decline. Rather like a ski slope. steady decline. Rather like a ski slope. steady decline. Rather like a ski slope.\nCNN apologize to you yet putting that CNN apologize to you yet putting that CNN apologize to you yet putting that\nfilter on your face? No. It'd be nice. filter on your face? No. It'd be nice. filter on your face? No. It'd be nice.\nShould probably apologize. When you Should probably apologize. When you Should probably apologize. When you\nwatch a network that is consistently watch a network that is consistently watch a network that is consistently\nwrong, you can't really believe what wrong, you can't really believe what wrong, you can't really believe what\nthey're saying. So why would you they're saying. So why would you they're saying. So why would you\ncontinue to watch somewhere? Get Gupta continue to watch somewhere? Get Gupta continue to watch somewhere? Get Gupta\nback on here. Sure. He'll apologize. I'd back on here. Sure. He'll apologize. I'd back on here. Sure. He'll apologize. I'd\nhave him back on, I guess. I don't know have him back on, I guess. I don't know have him back on, I guess. I don't know\nwhat we talk about. CNN Plus, maybe. what we talk about. CNN Plus, maybe. what we talk about. CNN Plus, maybe.\nThat was a fun trip. That was only a few That was a fun trip. That was only a few That was a fun trip. That was only a few\nhundred million failure. Oops. Where the hundred million failure. Oops. Where the hundred million failure. Oops. Where the\npredictions are wrong and the opinions predictions are wrong and the opinions predictions are wrong and the opinions\nare wrong. And what's very sad, are wrong. And what's very sad, are wrong. And what's very sad,\nactually, I don't think Ted Turner ever actually, I don't think Ted Turner ever actually, I don't think Ted Turner ever\nset out to have a left-wing propaganda set out to have a left-wing propaganda set out to have a left-wing propaganda\nnetwork. They'll be doing a little network. They'll be doing a little network. They'll be doing a little\nbetter now. Now that Trump's back in, better now. Now that Trump's back in, better now. Now that Trump's back in,\nthey got something to talk about. I they got something to talk about. I they got something to talk about. I\ndon't think they are.",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.2,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_CRAZY_Liberal_Ideology",
     "script": "This is how transgender people in sports This is how transgender people in sports\ngot through. The only way it got through got through. The only way it got through got through. The only way it got through\nis because people were calling people is because people were calling people is because people were calling people\nbigots. I hope the Democrats keep bigots. I hope the Democrats keep bigots. I hope the Democrats keep\nfighting for the mentally ill biological fighting for the mentally ill biological fighting for the mentally ill biological\nmen who keep trying to beat down women men who keep trying to beat down women men who keep trying to beat down women\nin sports cuz it's a losing position. in sports cuz it's a losing position. in sports cuz it's a losing position.\nAnd that was proven in the last And that was proven in the last And that was proven in the last\nelection. Every parent who's not a election. Every parent who's not a election. Every parent who's not a\ncomplete psychopath doesn't want their complete psychopath doesn't want their complete psychopath doesn't want their\ndaughter wrestling with some boy who daughter wrestling with some boy who daughter wrestling with some boy who\nthinks he's a girl. That's crazy. They thinks he's a girl. That's crazy. They thinks he's a girl. That's crazy. They\nban the national anthem before ban the national anthem before ban the national anthem before\ncompetitions and punish female athletes competitions and punish female athletes competitions and punish female athletes\nfor refusing to compete against men. for refusing to compete against men. for refusing to compete against men.\nPlaying rugby with some boy who thinks Playing rugby with some boy who thinks Playing rugby with some boy who thinks\nhe's a girl. That's crazy. Have a 6'6, he's a girl. That's crazy. Have a 6'6, he's a girl. That's crazy. Have a 6'6,\n50-year-old man who identifies as being 50-year-old man who identifies as being 50-year-old man who identifies as being\n17-year-old girl. That's crazy. The 17-year-old girl. That's crazy. The 17-year-old girl. That's crazy. The\nranking member called us weird for ranking member called us weird for ranking member called us weird for\nstanding up for girls and women when standing up for girls and women when standing up for girls and women when\nshe's the one who supports sex changes she's the one who supports sex changes she's the one who supports sex changes\nsurgeries. But you can't say that's surgeries. But you can't say that's surgeries. But you can't say that's\ncrazy or your feed will be bombarded crazy or your feed will be bombarded crazy or your feed will be bombarded\nwith a bunch of sociopaths attacking",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 7,
+      "context_free_understanding": 7,
+      "distinctive_twist": 5,
+      "virality_potential": 4,
+      "engagement_potential": 5,
+      "overall_shorts_score": 4.6,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_DIDDY_TRIAL",
     "script": "Well, Diddy's going to be in jail for Well, Diddy's going to be in jail for\nthe rest of his life. The trial for hip the rest of his life. The trial for hip the rest of his life. The trial for hip\nhop mogul Shawn Diddy Combmes to resume hop mogul Shawn Diddy Combmes to resume hop mogul Shawn Diddy Combmes to resume\nTuesday after some explosive testimony Tuesday after some explosive testimony Tuesday after some explosive testimony\nfrom rapper Kid Cuy this week. Have you from rapper Kid Cuy this week. Have you from rapper Kid Cuy this week. Have you\nbeen paying attention to the trial? been paying attention to the trial? been paying attention to the trial?\nTrials wild. Trials wild. Trials wild.\nKid Cuy, he goes on the stand. He says Kid Cuy, he goes on the stand. He says Kid Cuy, he goes on the stand. He says\nthat Diddy blew up my Porsche. He broke that Diddy blew up my Porsche. He broke that Diddy blew up my Porsche. He broke\ninto my home. It was explosive into my home. It was explosive into my home. It was explosive\ntestimony. Why don't they uh they air it testimony. Why don't they uh they air it testimony. Why don't they uh they air it\nthe same way they aired the uh you know the same way they aired the uh you know the same way they aired the uh you know\nJohnny Depp? I know. Why don't they? I Johnny Depp? I know. Why don't they? I Johnny Depp? I know. Why don't they? I\ndon't know. They should. The ratings don't know. They should. The ratings don't know. They should. The ratings\nwould be amazing. Unreal. What are you would be amazing. Unreal. What are you would be amazing. Unreal. What are you\ndoing? Why wouldn't you air that? Mr. doing? Why wouldn't you air that? Mr. doing? Why wouldn't you air that? Mr.\nDepp hasn't looked at you once this Depp hasn't looked at you once this Depp hasn't looked at you once this\nentire trial, has he? Not that I've entire trial, has he? Not that I've entire trial, has he? Not that I've\nnoticed. No. You've looked at him though noticed. No. You've looked at him though noticed. No. You've looked at him though\nmany times. Yes, I have. How many guys many times. Yes, I have. How many guys many times. Yes, I have. How many guys\nwere on video saying ain't no party like were on video saying ain't no party like were on video saying ain't no party like\na diddy party? How many people like a diddy party? How many people like a diddy party? How many people like\nopenly talked about being there? Hey, openly talked about being there? Hey, openly talked about being there? Hey,\neverybody know ain't no party like a everybody know ain't no party like a everybody know ain't no party like a\ndiddy party. So, yeah, that's diddy party. So, yeah, that's diddy party. So, yeah, that's\nwhat is the next crazy thing that's what is the next crazy thing that's what is the next crazy thing that's\ngoing to explode in the news? Is Bill going to explode in the news? Is Bill going to explode in the news? Is Bill\nClinton's going to have an Only Fans? Clinton's going to have an Only Fans? Clinton's going to have an Only Fans?\nWhat is the next thing that's going to What is the next thing that's going to What is the next thing that's going to\nmake us all go, \"What the [&nbsp;__&nbsp;]",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 3,
+      "payoff_strength": 6,
+      "context_free_understanding": 6,
+      "distinctive_twist": 4,
+      "virality_potential": 6,
+      "engagement_potential": 8,
+      "overall_shorts_score": 4.9,
+      "viral_potential": "Low"
     }
   },
   {
@@ -58,17 +118,37 @@
     "script": "What's really crazy to me is when people What's really crazy to me is when people\nsay the rich should pay more taxes, say the rich should pay more taxes, say the rich should pay more taxes,\nwhere's that going? Where's the money where's that going? Where's the money where's that going? Where's the money\ngoing? Is the money's going to the going? Is the money's going to the going? Is the money's going to the\nfederal government, the tariffs are federal government, the tariffs are federal government, the tariffs are\ntaxes. I'm happy to pay tax if I thought taxes. I'm happy to pay tax if I thought taxes. I'm happy to pay tax if I thought\nthat they were doing a great job. I pay that they were doing a great job. I pay that they were doing a great job. I pay\ntax and I pay federal tax, too. It's tax and I pay federal tax, too. It's tax and I pay federal tax, too. It's\njust you are being strongarmed into just you are being strongarmed into just you are being strongarmed into\ngiving money to people that do a really giving money to people that do a really giving money to people that do a really\nshitty job. Aggressive stance against shitty job. Aggressive stance against shitty job. Aggressive stance against\ncountries he feels are ripping off the countries he feels are ripping off the countries he feels are ripping off the\nUnited States. You're talking about a United States. You're talking about a United States. You're talking about a\n10% baseline tariff on protecting your 10% baseline tariff on protecting your 10% baseline tariff on protecting your\nmoney and in and investing it in the money and in and investing it in the money and in and investing it in the\ncountry. So doing use trillions and country. So doing use trillions and country. So doing use trillions and\ntrillions of dollars to reduce our trillions of dollars to reduce our trillions of dollars to reduce our\ntaxes. It's a lot of it is going to taxes. It's a lot of it is going to taxes. It's a lot of it is going to\nbureaucracy and [&nbsp;__&nbsp;] Imagine if you bureaucracy and [&nbsp;__&nbsp;] Imagine if you bureaucracy and [&nbsp;__&nbsp;] Imagine if you\nlike pick what you you know if you had like pick what you you know if you had like pick what you you know if you had\nlike a whole tax sheet, would you like like a whole tax sheet, would you like like a whole tax sheet, would you like\nyour money to go to uh overthrowing your money to go to uh overthrowing your money to go to uh overthrowing\ngovernments? No. Like what if the governments? No. Like what if the governments? No. Like what if the\nfederal government's budget was entirely federal government's budget was entirely federal government's budget was entirely\nbased on the will of the people? Like based on the will of the people? Like based on the will of the people? Like\nyou get to choose like how much of your you get to choose like how much of your you get to choose like how much of your\nmoney you want to put into drone strikes money you want to put into drone strikes money you want to put into drone strikes\nin Yemen.",
     "rubric": {
       "hook": true,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": false,
+      "early_engagement": 8,
+      "main_idea_clarity": 8,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 5,
+      "distinctive_twist": 6,
+      "virality_potential": 7,
+      "engagement_potential": 8,
+      "overall_shorts_score": 6.8,
+      "viral_potential": "Medium"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_Doocy_GRILLING_Karine_Jean_Pierre",
     "script": "she gets called out for stuff all the she gets called out for stuff all the\ntime she gets set up for stuff all the time she gets set up for stuff all the time she gets set up for stuff all the\ntime like Peter duy's Always setting her time like Peter duy's Always setting her time like Peter duy's Always setting her\nup he talks to her du is amazing he's up he talks to her du is amazing he's up he talks to her du is amazing he's\nhe's so good he'll provide a little bit he's so good he'll provide a little bit he's so good he'll provide a little bit\nof this but then what about that how is of this but then what about that how is of this but then what about that how is\nPresident Biden ever going to convince President Biden ever going to convince President Biden ever going to convince\nthe three4 of Voters who were worried the three4 of Voters who were worried the three4 of Voters who were worried\nabout his physical and mental health about his physical and mental health about his physical and mental health\nthat he is okay even though in Las Vegas that he is okay even though in Las Vegas that he is okay even though in Las Vegas\nhe told a story about recently talking he told a story about recently talking he told a story about recently talking\nto a French president who died in 1996 to a French president who died in 1996 to a French president who died in 1996\nI'm not even going to go down that I'm not even going to go down that I'm not even going to go down that\nrabbit hole with you sir we're going go rabbit hole with you sir we're going go rabbit hole with you sir we're going go\ngo ahead you saw the president in Vegas go ahead you saw the president in Vegas go ahead you saw the president in Vegas\nin California you've seen the president in California you've seen the president in California you've seen the president\nin South Carolina I'll just leave it in South Carolina I'll just leave it in South Carolina I'll just leave it\nthere she's just awful at it and she's there she's just awful at it and she's there she's just awful at it and she's\nonly really challenged by one person in only really challenged by one person in only really challenged by one person in\nthe briefing room and still manages to the briefing room and still manages to the briefing room and still manages to\nbungle it on the daily",
     "rubric": {
-      "hook": true,
-      "oneClaim": true,
-      "selfSufficient": false
+      "hook": false,
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 4.9,
+      "viral_potential": "Low"
     }
   },
   {
@@ -76,17 +156,37 @@
     "script": "There's a lot of stuff that it looks There's a lot of stuff that it looks\ngood on the outside and then you find good on the outside and then you find good on the outside and then you find\nout you have this amazing slush fund. out you have this amazing slush fund. out you have this amazing slush fund.\nYou're right to be concerned about Elon You're right to be concerned about Elon You're right to be concerned about Elon\nMusk, an unelected billionaire who has a Musk, an unelected billionaire who has a Musk, an unelected billionaire who has a\ntremendous amount of influence, billions tremendous amount of influence, billions tremendous amount of influence, billions\nof dollars that's being allocated of dollars that's being allocated of dollars that's being allocated\ntowards this one particular towards this one particular towards this one particular\norganization. If he is finding all of organization. If he is finding all of organization. If he is finding all of\nthis waste, fraud, and abuse, come this waste, fraud, and abuse, come this waste, fraud, and abuse, come\nbefore Congress, lay it out. people are before Congress, lay it out. people are before Congress, lay it out. people are\nextracting enormous salaries and then extracting enormous salaries and then extracting enormous salaries and then\nvery little of it is actually going and very little of it is actually going and very little of it is actually going and\nit's very peculiar how at the same time it's very peculiar how at the same time it's very peculiar how at the same time\n7,000 Social Security uh employees are 7,000 Social Security uh employees are 7,000 Social Security uh employees are\nfired, 6,000 from the Veterans fired, 6,000 from the Veterans fired, 6,000 from the Veterans\nAdministration are fired. His company is Administration are fired. His company is Administration are fired. His company is\ngetting more contracts. This is a part getting more contracts. This is a part getting more contracts. This is a part\nof the problem with these things like, of the problem with these things like, of the problem with these things like,\n\"Oh, we lost funding.\" Okay, yeah, \"Oh, we lost funding.\" Okay, yeah, \"Oh, we lost funding.\" Okay, yeah,\nthat's bad. You definitely want to have that's bad. You definitely want to have that's bad. You definitely want to have\nfunding to help innocent people get out funding to help innocent people get out funding to help innocent people get out\nof jail. Where's all the money going? I of jail. Where's all the money going? I of jail. Where's all the money going? I\ndon't know. And making more money off don't know. And making more money off don't know. And making more money off\nthe federal government every day. But I the federal government every day. But I the federal government every day. But I\nknow a lot of them. I know that they know a lot of them. I know that they know a lot of them. I know that they\nspent $251 million on transgender animal spent $251 million on transgender animal spent $251 million on transgender animal\nstudies.",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 7,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 8,
+      "virality_potential": 7,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.5,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_HEATED_RFK_Debate",
     "script": "The other thing that Bobby did, did you The other thing that Bobby did, did you\nsee that conversation that he had with see that conversation that he had with see that conversation that he had with\nthe dentist about fluoride? I am the dentist about fluoride? I am the dentist about fluoride? I am\nconcerned about the fluoride issue. I've concerned about the fluoride issue. I've concerned about the fluoride issue. I've\nseen the benefits having been a seen the benefits having been a seen the benefits having been a\npracticing dentist for 22 years where practicing dentist for 22 years where practicing dentist for 22 years where\nthe dentist was questioning about floor. the dentist was questioning about floor. the dentist was questioning about floor.\nWe're going to have a lot more dental We're going to have a lot more dental We're going to have a lot more dental\nsurgeries. So, I want to see the studies surgeries. So, I want to see the studies surgeries. So, I want to see the studies\non this. If you are successful in on this. If you are successful in on this. If you are successful in\nbanning fluoride, we better put a lot banning fluoride, we better put a lot banning fluoride, we better put a lot\nmore money into dental education cuz more money into dental education cuz more money into dental education cuz\nwe're going to need a whole lot more we're going to need a whole lot more we're going to need a whole lot more\ndentists. Bobby hit some of the stats. dentists. Bobby hit some of the stats. dentists. Bobby hit some of the stats.\nWell, you don't need that in the water. Well, you don't need that in the water. Well, you don't need that in the water.\nWe now know that virtually all the We now know that virtually all the We now know that virtually all the\nbenefit is from topical and we can get benefit is from topical and we can get benefit is from topical and we can get\nthat through mouthwashes. We can get that through mouthwashes. We can get that through mouthwashes. We can get\nthrough fluoride toothpaste. If fluoride through fluoride toothpaste. If fluoride through fluoride toothpaste. If fluoride\nis so effective, you use it orally like is so effective, you use it orally like is so effective, you use it orally like\ntoothpaste and mouthwash and you spit it toothpaste and mouthwash and you spit it toothpaste and mouthwash and you spit it\nout. You don't have to swallow it. And out. You don't have to swallow it. And out. You don't have to swallow it. And\nyou probably shouldn't even do that. I you probably shouldn't even do that. I you probably shouldn't even do that. I\ndon't use fluoride toothpaste. Showed a don't use fluoride toothpaste. Showed a don't use fluoride toothpaste. Showed a\ndirect inferous correlation between direct inferous correlation between direct inferous correlation between\nfluoride exposure dose related and lower fluoride exposure dose related and lower fluoride exposure dose related and lower\nIQ. Eddie Bravo had a great point. If IQ. Eddie Bravo had a great point. If IQ. Eddie Bravo had a great point. If\nfluoride did so much, why would they fluoride did so much, why would they fluoride did so much, why would they\nspecifically advertise toothpaste as not specifically advertise toothpaste as not specifically advertise toothpaste as not\nhaving fluoride? Fluoride free having fluoride? Fluoride free having fluoride? Fluoride free\ntoothpaste? It's an issue that we have toothpaste? It's an issue that we have toothpaste? It's an issue that we have\nto all be concerned with. We want a high to all be concerned with. We want a high to all be concerned with. We want a high\nIQ kid, which is",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 7,
+      "main_idea_clarity": 7,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 4,
+      "virality_potential": 7,
+      "engagement_potential": 8,
+      "overall_shorts_score": 5.2,
+      "viral_potential": "Low"
     }
   },
   {
@@ -94,8 +194,18 @@
     "script": "She just answered questions for him on She just answered questions for him on\nthe view. You know, one of the things the view. You know, one of the things the view. You know, one of the things\nthat that Well, I'm Well, and Alyssa, that that Well, I'm Well, and Alyssa, that that Well, I'm Well, and Alyssa,\nyou know, one of the things I think is you know, one of the things I think is you know, one of the things I think is\nthat they didn't see how hard Joe worked that they didn't see how hard Joe worked that they didn't see how hard Joe worked\nevery single day. That was even better. every single day. That was even better. every single day. That was even better.\nLike, Dr. Jill's We're also in a Like, Dr. Jill's We're also in a Like, Dr. Jill's We're also in a\nsituation where we found ourselves uh situation where we found ourselves uh situation where we found ourselves uh\nunable to uh deal with so we went to unable to uh deal with so we went to unable to uh deal with so we went to\nwork. Such a great job. You were such a work. Such a great job. You were such a work. Such a great job. You were such a\ngreat president. He was still on the great president. He was still on the great president. He was still on the\nphone reading his briefings, working phone reading his briefings, working phone reading his briefings, working\nwith staff. I mean it was nonstop. Is with staff. I mean it was nonstop. Is with staff. I mean it was nonstop. Is\nshe a doctor like a medical doctor or is she a doctor like a medical doctor or is she a doctor like a medical doctor or is\nshe like a PhD? She's like me. She's got she like a PhD? She's like me. She's got she like a PhD? She's like me. She's got\nhonorary degree. We left with a honorary degree. We left with a honorary degree. We left with a\ncircumstance where we uh we had a we circumstance where we uh we had a we circumstance where we uh we had a we\nthat not sense a civil war. We had a that not sense a civil war. We had a that not sense a civil war. We had a\ncircumstance where position that we uh I circumstance where position that we uh I circumstance where position that we uh I\nthink he said the real",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 1,
+      "payoff_strength": 6,
+      "context_free_understanding": 5,
+      "distinctive_twist": 4,
+      "virality_potential": 5,
+      "engagement_potential": 7,
+      "overall_shorts_score": 4.7,
+      "viral_potential": "Low"
     }
   },
   {
@@ -103,8 +213,18 @@
     "script": "It was so bad for the Democratic party. It was so bad for the Democratic party.\nWe're also in a situation where we found We're also in a situation where we found We're also in a situation where we found\nourselves uh unable to uh deal with a ourselves uh unable to uh deal with a ourselves uh unable to uh deal with a\nlot of just basic issues which I won't lot of just basic issues which I won't lot of just basic issues which I won't\ngo into in interest of time. They were go into in interest of time. They were go into in interest of time. They were\njust honest about that and then had a just honest about that and then had a just honest about that and then had a\nprimary. You know, one of the things primary. You know, one of the things primary. You know, one of the things\nthat that Well, I'm Well, and Alyssa, that that Well, I'm Well, and Alyssa, that that Well, I'm Well, and Alyssa,\nyou know, one of the things I mean, he'd you know, one of the things I mean, he'd you know, one of the things I mean, he'd\nget up, he he'd put in a full day. At get up, he he'd put in a full day. At get up, he he'd put in a full day. At\nnight, he would I'd be in bed, you know, night, he would I'd be in bed, you know, night, he would I'd be in bed, you know,\nreading my book. I just don't think he reading my book. I just don't think he reading my book. I just don't think he\nwanted to step down. And Jill didn't wanted to step down. And Jill didn't wanted to step down. And Jill didn't\nwant to step down. He's as sharp as want to step down. He's as sharp as want to step down. He's as sharp as\never. Joe, you did such a great job. You ever. Joe, you did such a great job. You ever. Joe, you did such a great job. You\nanswered every question. You knew all answered every question. You knew all answered every question. You knew all\nthe Remember she did the one thing the Remember she did the one thing the Remember she did the one thing\nafterwards where he got done. She You afterwards where he got done. She You afterwards where he got done. She You\nanswered all You answered all the answered all You answered all the answered all You answered all the\nquestions. And let me ask the crowd, questions. And let me ask the crowd, questions. And let me ask the crowd,\nwhat did Trump do? what did Trump do? what did Trump do?\nI said that to me.",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 7,
+      "no_lulls": 1,
+      "payoff_strength": 6,
+      "context_free_understanding": 5,
+      "distinctive_twist": 4,
+      "virality_potential": 4,
+      "engagement_potential": 5,
+      "overall_shorts_score": 4.0,
+      "viral_potential": "Low"
     }
   },
   {
@@ -112,35 +232,75 @@
     "script": "When Kamla was running for president, When Kamla was running for president,\nthere was all this talk of these various there was all this talk of these various there was all this talk of these various\ncelebrities that were paid large amounts celebrities that were paid large amounts celebrities that were paid large amounts\nof money to endorse her publicly. $1.4 of money to endorse her publicly. $1.4 of money to endorse her publicly. $1.4\nbillion. She had over 80 billionaires billion. She had over 80 billionaires billion. She had over 80 billionaires\nbacking her. Carl, she had the entire backing her. Carl, she had the entire backing her. Carl, she had the entire\nmusic industry, all of Hollywood, most music industry, all of Hollywood, most music industry, all of Hollywood, most\nof big tech, and she still lost the of big tech, and she still lost the of big tech, and she still lost the\nelection. It was printed everywhere that election. It was printed everywhere that election. It was printed everywhere that\nBeyonce got 11 million. The crazy thing Beyonce got 11 million. The crazy thing Beyonce got 11 million. The crazy thing\nabout it is if you spend $1.5 billion in about it is if you spend $1.5 billion in about it is if you spend $1.5 billion in\n4 months, we have not yet seen the same 4 months, we have not yet seen the same 4 months, we have not yet seen the same\nkinds of energy and turnout of our kinds of energy and turnout of our kinds of energy and turnout of our\nneighborhoods and communities as we saw neighborhoods and communities as we saw neighborhoods and communities as we saw\nwhen I was running. If I was a corrupt when I was running. If I was a corrupt when I was running. If I was a corrupt\nperson, I would make this the person, I would make this the person, I would make this the\ncornerstone of society's task is to make cornerstone of society's task is to make cornerstone of society's task is to make\nsure that Donald Trump doesn't get sure that Donald Trump doesn't get sure that Donald Trump doesn't get\narrested, doesn't get elected rather. arrested, doesn't get elected rather. arrested, doesn't get elected rather.\nWith faith in each other and joy in our With faith in each other and joy in our With faith in each other and joy in our\nhearts, let's send Kamla Harris and Tim hearts, let's send Kamla Harris and Tim hearts, let's send Kamla Harris and Tim\nWalls to the White House. We need to Walls to the White House. We need to Walls to the White House. We need to\nthrow as much money at Kla Harris as throw as much money at Kla Harris as throw as much money at Kla Harris as\npossible and then be super irresponsible possible and then be super irresponsible possible and then be super irresponsible\nwith that money where it just kind of with that money where it just kind of with that money where it just kind of\nvanishes, just goes off into a bunch of vanishes, just goes off into a bunch of vanishes, just goes off into a bunch of\ndifferent NOS. It's a crazy scam. any different NOS. It's a crazy scam. any different NOS. It's a crazy scam. any\npresidential candidate that's running presidential candidate that's running presidential candidate that's running\nlike that.",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 9,
+      "distinctive_twist": 4,
+      "virality_potential": 4,
+      "engagement_potential": 5,
+      "overall_shorts_score": 4.3,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_Karoline_Leavitt_Defending_Donald_Trump",
     "script": "But that lady, that new press secretary, But that lady, that new press secretary,\nas you all know, over the past month, as you all know, over the past month, as you all know, over the past month,\nthe president has taken questions from the president has taken questions from the president has taken questions from\nthe press. All of you, dude, she's a the press. All of you, dude, she's a the press. All of you, dude, she's a\ngangster. You've never seen someone more gangster. You've never seen someone more gangster. You've never seen someone more\nprepared for a question in your life, prepared for a question in your life, prepared for a question in your life,\nJamie. Nearly every single day, Jamie. Nearly every single day, Jamie. Nearly every single day,\nsometimes on multiple different sometimes on multiple different sometimes on multiple different\noccasions, in the same day, on any topic occasions, in the same day, on any topic occasions, in the same day, on any topic\nany of you wish to talk about. She was any of you wish to talk about. She was any of you wish to talk about. She was\nso prepared for this. Well, she's so prepared for this. Well, she's so prepared for this. Well, she's\nsupposed to be prepared. That's why I supposed to be prepared. That's why I supposed to be prepared. That's why I\nsaid you've never seen someone more said you've never seen someone more said you've never seen someone more\nprepared. President Trump set the tone prepared. President Trump set the tone prepared. President Trump set the tone\non this approach immediately when he on this approach immediately when he on this approach immediately when he\ntook more than 12 times the questions in took more than 12 times the questions in took more than 12 times the questions in\nhis first few hours in office as Joe his first few hours in office as Joe his first few hours in office as Joe\nBiden did in his entire first week. Biden did in his entire first week. Biden did in his entire first week.\nYes. Because they're prepared. Yes. Because they're prepared. Yes. Because they're prepared.\nYesterday, we hosted a local media row Yesterday, we hosted a local media row Yesterday, we hosted a local media row\nhere at the White House with television here at the White House with television here at the White House with television\nand radio stations from across the and radio stations from across the and radio stations from across the\ncountry that reached up to 60 million country that reached up to 60 million country that reached up to 60 million\nviewers and listeners. And you know why viewers and listeners. And you know why viewers and listeners. And you know why\nthey're prepared? Cuz they're trying to they're prepared? Cuz they're trying to they're prepared? Cuz they're trying to\nplay gotcha. So she played gotcha with",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 5,
+      "virality_potential": 4,
+      "engagement_potential": 5,
+      "overall_shorts_score": 4.3,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_MAHA",
     "script": "Now they're connecting not having toxins Now they're connecting not having toxins\nin your food with a right-wing idea. At in your food with a right-wing idea. At in your food with a right-wing idea. At\nthe White House yesterday, Robert F. the White House yesterday, Robert F. the White House yesterday, Robert F.\nKennedy Jr. released the Make America Kennedy Jr. released the Make America Kennedy Jr. released the Make America\nHealthy Again Commission Report. Healthy Again Commission Report. Healthy Again Commission Report.\nIt's mindblowing. It's so bananas. It's mindblowing. It's so bananas. It's mindblowing. It's so bananas.\nFitness. They're connecting fitness with Fitness. They're connecting fitness with Fitness. They're connecting fitness with\na right-wing idea. You have basically a right-wing idea. You have basically a right-wing idea. You have basically\nthe food issues that had been owned by the food issues that had been owned by the food issues that had been owned by\nthe progressive left for many years. the progressive left for many years. the progressive left for many years.\norganic food, school food reform, organic food, school food reform, organic food, school food reform,\nlimiting pesticides, limiting food dyes limiting pesticides, limiting food dyes limiting pesticides, limiting food dyes\nis now actually owned by mahop, owned by is now actually owned by mahop, owned by is now actually owned by mahop, owned by\nthe conservative right. One of the the conservative right. One of the the conservative right. One of the\nweirdest things is if you are on the weirdest things is if you are on the weirdest things is if you are on the\nwrong side of their ideology, if you're wrong side of their ideology, if you're wrong side of their ideology, if you're\naligned with Trump like RFK Jr. is, aligned with Trump like RFK Jr. is, aligned with Trump like RFK Jr. is,\nthere has never been a president more there has never been a president more there has never been a president more\nwilling to stand up to the oligarchs willing to stand up to the oligarchs willing to stand up to the oligarchs\nthan President Donald Trump. I'm very, than President Donald Trump. I'm very, than President Donald Trump. I'm very,\nvery proud of you, Mr. President, for very proud of you, Mr. President, for very proud of you, Mr. President, for\nyour courage, your willingness to stand your courage, your willingness to stand your courage, your willingness to stand\nup for the American people. Now all of a up for the American people. Now all of a up for the American people. Now all of a\nsudden I've seen people on the left that sudden I've seen people on the left that sudden I've seen people on the left that\nare trying to dismiss a lot of the are trying to dismiss a lot of the are trying to dismiss a lot of the\nthings that he says. We've done more in things that he says. We've done more in things that he says. We've done more in\n100 days than my predecessors have done 100 days than my predecessors have done 100 days than my predecessors have done\nin decades about additives in food, in decades about additives in food, in decades about additives in food,\nabout atrizine, fluoride in the wall, about atrizine, fluoride in the wall, about atrizine, fluoride in the wall,\nall these different",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 6,
+      "overall_shorts_score": 5.0,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_Macron_SLAP",
     "script": "Someone sent me a video of Bridget Someone sent me a video of Bridget\nMcronone, Mcronone's wife, face slapping Mcronone, Mcronone's wife, face slapping Mcronone, Mcronone's wife, face slapping\nhim. That's wild. My favorite is the look into the wild. My favorite is the look into the\ncamera once he realizes I got caught. camera once he realizes I got caught. camera once he realizes I got caught.\nYou could put like the curb your You could put like the curb your You could put like the curb your\nenthusiasm theme song right after that. Imagine what goes on behind closed that. Imagine what goes on behind closed\ndoors. If someone's slapping you on a doors. If someone's slapping you on a doors. If someone's slapping you on a\nprivate jet, what is that? That's a private jet, what is that? That's a private jet, what is that? That's a\nweird relationship.",
     "rubric": {
-      "hook": true,
-      "oneClaim": false,
-      "selfSufficient": false
+      "hook": false,
+      "oneClaim": true,
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 6,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 6,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.5,
+      "viral_potential": "Medium"
     }
   },
   {
@@ -149,34 +309,74 @@
     "rubric": {
       "hook": true,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 8,
+      "main_idea_clarity": 8,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 5,
+      "distinctive_twist": 7,
+      "virality_potential": 7,
+      "engagement_potential": 8,
+      "overall_shorts_score": 7.2,
+      "viral_potential": "Medium"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_OBAMA_Drinking_Flint_Water",
     "script": "Can I get a glass of water? Can I get Can I get a glass of water? Can I get\nsome water? I'm serious. I'm thirsty. I some water? I'm serious. I'm thirsty. I some water? I'm serious. I'm thirsty. I\nwant a glass of water. Can I get a glass want a glass of water. Can I get a glass want a glass of water. Can I get a glass\nof water? This is not a prank. Well, I'm of water? This is not a prank. Well, I'm of water? This is not a prank. Well, I'm\nstill waiting for my water. Somebody still waiting for my water. Somebody still waiting for my water. Somebody\nobviously didn't hear me. You never seen obviously didn't hear me. You never seen obviously didn't hear me. You never seen\nit? Oh my god. It's amazing. It's it? Oh my god. It's amazing. It's it? Oh my god. It's amazing. It's\namazing. Now, the reason I know I'm okay amazing. Now, the reason I know I'm okay amazing. Now, the reason I know I'm okay\nis because I already had some Flint is because I already had some Flint is because I already had some Flint\nwater. He gets a glass of Flint tap water. He gets a glass of Flint tap water. He gets a glass of Flint tap\nwater and I swear to God, he drinks it water and I swear to God, he drinks it water and I swear to God, he drinks it\nlike this. Like this. I really did need like this. Like this. I really did need like this. Like this. I really did need\na glass of water. This is not a stunt. a glass of water. This is not a stunt. a glass of water. This is not a stunt.\nBullshitting the world. Watch this. Here Bullshitting the world. Watch this. Here Bullshitting the world. Watch this. Here\nwe go. Like he's doing a shot of Red we go. Like he's doing a shot of Red we go. Like he's doing a shot of Red\nBull. I really did need a glass of Bull. I really did need a glass of Bull. I really did need a glass of\nwater. This is not a stunt. It's 100% a water. This is not a stunt. It's 100% a water. This is not a stunt. It's 100% a\nstunt. When was the last time a stunt. When was the last time a stunt. When was the last time a\npresident stopped a speech to ask, \"Can president stopped a speech to ask, \"Can president stopped a speech to ask, \"Can\nI get a glass of water?\" He's literally I get a glass of water?\" He's literally I get a glass of water?\" He's literally\ndrinking poison water. Like they're drinking poison water. Like they're drinking poison water. Like they're\ndrinking poison water and everyone's drinking poison water and everyone's drinking poison water and everyone's\ncheering that he's asking for poison",
     "rubric": {
-      "hook": false,
+      "hook": true,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 7,
+      "main_idea_clarity": 9,
+      "no_lulls": 3,
+      "payoff_strength": 6,
+      "context_free_understanding": 7,
+      "distinctive_twist": 5,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 6.9,
+      "viral_potential": "Medium"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_Obama_Law",
     "script": "you know Obama passed that law in was it you know Obama passed that law in was it\n2012 that allowed the government to use 2012 that allowed the government to use 2012 that allowed the government to use\npropaganda on its own citizens or this propaganda on its own citizens or this propaganda on its own citizens or this\nis not the ndaa 2012 no no this is a is not the ndaa 2012 no no this is a is not the ndaa 2012 no no this is a\nthat's indefinite detention yeah that's that's indefinite detention yeah that's that's indefinite detention yeah that's\nindefinite detention this is different indefinite detention this is different indefinite detention this is different\nthis is uh the use of propaganda so they this is uh the use of propaganda so they this is uh the use of propaganda so they\nauthorize the use of propaganda on authorize the use of propaganda on authorize the use of propaganda on\nAmerican citizens so the CIA instead of American citizens so the CIA instead of American citizens so the CIA instead of\nturning its propaganda wing on the whole turning its propaganda wing on the whole turning its propaganda wing on the whole\nworld they're allowed to use it under world they're allowed to use it under world they're allowed to use it under\nthe guise of course of National Defense the guise of course of National Defense the guise of course of National Defense\nand National security and sometimes they and National security and sometimes they and National security and sometimes they\nneed to at us",
     "rubric": {
-      "hook": true,
-      "oneClaim": false,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": true,
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 9,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 4,
+      "virality_potential": 4,
+      "engagement_potential": 4,
+      "overall_shorts_score": 4.6,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_Obama_Speaking_Fees",
     "script": "What it is, it's like an investment. The What it is, it's like an investment. The\npresident is going to be getting president is going to be getting president is going to be getting\n$400,000 to do a speech before Wall $400,000 to do a speech before Wall $400,000 to do a speech before Wall\nStreet powerhouse. If you get out, you Street powerhouse. If you get out, you Street powerhouse. If you get out, you\nwill have money for speaking engagements will have money for speaking engagements will have money for speaking engagements\nwith all the companies that you helped, with all the companies that you helped, with all the companies that you helped,\nall the companies that you like, hey, I all the companies that you like, hey, I all the companies that you like, hey, I\nlike you. I like you. Let's hang out. like you. I like you. Let's hang out. like you. I like you. Let's hang out.\nLet's party. Well, I think Barack Obama Let's party. Well, I think Barack Obama Let's party. Well, I think Barack Obama\ngave this country hope for 8 years and gave this country hope for 8 years and gave this country hope for 8 years and\nnow he wants his change. They're like, now he wants his change. They're like, now he wants his change. They're like,\nhey, Mike, Mike, the former president, hey, Mike, Mike, the former president, hey, Mike, Mike, the former president,\nwe'd love to have you come speak at our we'd love to have you come speak at our we'd love to have you come speak at our\nconference and we're willing to pay you conference and we're willing to pay you conference and we're willing to pay you\na half a million dollars. So, there's a half a million dollars. So, there's a half a million dollars. So, there's\nthese like weird bribes. This is nothing these like weird bribes. This is nothing these like weird bribes. This is nothing\nnew for presidents to do. This is sort new for presidents to do. This is sort new for presidents to do. This is sort\nof the equivalent of a sports uh major of the equivalent of a sports uh major of the equivalent of a sports uh major\nleague athlete going into broadcasting. league athlete going into broadcasting. league athlete going into broadcasting.\nAlthough major league athletes tend to Although major league athletes tend to Although major league athletes tend to\ntake quite a pay cut as opposed to take quite a pay cut as opposed to take quite a pay cut as opposed to\nBarack Obama who will be making the same Barack Obama who will be making the same Barack Obama who will be making the same\namount in one speech as he did in one amount in one speech as he did in one amount in one speech as he did in one\nyear of being president. It's kind of year of being president. It's kind of year of being president. It's kind of\ngenius. It's a genius con game. What it genius. It's a genius con game. What it genius. It's a genius con game. What it\nis is like a virus finds its way through is is like a virus finds its way through is is like a virus finds its way through\nthe system and they never tell on each the system and they never tell on each the system and they never tell on each\nother. The left and the right side just other. The left and the right side just other. The left and the right side just\nlike No, no, we're all in that game. like No, no, we're all in that game. like No, no, we're all in that game.\nYeah, that's the game of making big Yeah, that's the game of making big Yeah, that's the game of making big\nmoney after you quit. It would be nice money after you quit. It would be nice money after you quit. It would be nice\nif the media narrative didn't if the media narrative didn't if the media narrative didn't\nimmediately focus on the fact that he immediately focus on the fact that he immediately focus on the fact that he\nwas receiving $400,000 from this Wall was receiving $400,000 from this Wall was receiving $400,000 from this Wall\nStreet speech. And then you can also Street speech. And then you can also Street speech. And then you can also\nsell books. If you're a president, you sell books. If you're a president, you sell books. If you're a president, you\nwrite a book, that book is selling. They write a book, that book is selling. They write a book, that book is selling. They\nmake their money when they get",
     "rubric": {
-      "hook": true,
-      "oneClaim": true,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 6,
+      "context_free_understanding": 7,
+      "distinctive_twist": 4,
+      "virality_potential": 5,
+      "engagement_potential": 7,
+      "overall_shorts_score": 4.6,
+      "viral_potential": "Low"
     }
   },
   {
@@ -185,7 +385,17 @@
     "rubric": {
       "hook": false,
       "oneClaim": false,
-      "selfSufficient": false
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.1,
+      "viral_potential": "Low"
     }
   },
   {
@@ -194,25 +404,55 @@
     "rubric": {
       "hook": true,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 9,
+      "main_idea_clarity": 7,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 4,
+      "virality_potential": 7,
+      "engagement_potential": 8,
+      "overall_shorts_score": 7.0,
+      "viral_potential": "Medium"
     }
   },
   {
     "id": "Joe_Rogan_Reacts_to_THE_VIEW",
     "script": "the real fans of the view that are like, the real fans of the view that are like,\n\"Oh, these ladies are on point.\" Most of \"Oh, these ladies are on point.\" Most of \"Oh, these ladies are on point.\" Most of\nthose people can't leave the house. those people can't leave the house. those people can't leave the house.\nSouth African president paid a visit to South African president paid a visit to South African president paid a visit to\nthe White House yesterday which turned the White House yesterday which turned the White House yesterday which turned\ninto a surprise presentation on into a surprise presentation on into a surprise presentation on\nconspiracy theories of a white genocide conspiracy theories of a white genocide conspiracy theories of a white genocide\nin his country. I think the problem with in his country. I think the problem with in his country. I think the problem with\nthat show that show has this very that show that show has this very that show that show has this very\nspecific ideological bubble in which specific ideological bubble in which specific ideological bubble in which\nthey operate in, you know, and they they operate in, you know, and they they operate in, you know, and they\nalways bring on a token conservative always bring on a token conservative always bring on a token conservative\nwoman and they yell over her and silence woman and they yell over her and silence woman and they yell over her and silence\nher. So between ambushing Zalinski and her. So between ambushing Zalinski and her. So between ambushing Zalinski and\nthis, why would world leaders continue this, why would world leaders continue this, why would world leaders continue\nto come to the White House? Well, their to come to the White House? Well, their to come to the White House? Well, their\naudience is not really their audience. audience is not really their audience. audience is not really their audience.\nTheir audience is a group of people they Their audience is a group of people they Their audience is a group of people they\nbring in to watch television shows. If bring in to watch television shows. If bring in to watch television shows. If\nyou ever seen audiences before for TV you ever seen audiences before for TV you ever seen audiences before for TV\nshows, a lot of them are paid because shows, a lot of them are paid because shows, a lot of them are paid because\nthey have to guarantee that there's they have to guarantee that there's they have to guarantee that there's\ngoing to be people there. So there's going to be people there. So there's going to be people there. So there's\nservices that you hire. This is the services that you hire. This is the services that you hire. This is the\nproblem with getting all your problem with getting all your problem with getting all your\ninformation from Laura Loomer and Elon information from Laura Loomer and Elon information from Laura Loomer and Elon\nMusk. This is what they're going to deal Musk. This is what they're going to deal Musk. This is what they're going to deal\nyou. It's a very strange",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 5,
+      "virality_potential": 5,
+      "engagement_potential": 6,
+      "overall_shorts_score": 4.7,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_SHOCKED_by_America_s_Future",
     "script": "77% of American children um are no 77% of American children um are no\nlonger eligible for the military because longer eligible for the military because longer eligible for the military because\nof chronic disease. More than 70% of of chronic disease. More than 70% of of chronic disease. More than 70% of\nyoung men are ineligible for the young men are ineligible for the young men are ineligible for the\nmilitary because of their health. That's military because of their health. That's military because of their health. That's\ncrazy. Kennedy believes that the crazy. Kennedy believes that the crazy. Kennedy believes that the\nAmerican diet is rife with poisonous American diet is rife with poisonous American diet is rife with poisonous\nadditives and chemicals that are making additives and chemicals that are making additives and chemicals that are making\npeople sick and fat. That sedentary people sick and fat. That sedentary people sick and fat. That sedentary\nlifestyle, that's our diet. That's the lifestyle, that's our diet. That's the lifestyle, that's our diet. That's the\nchemicals we ingest. That's what that chemicals we ingest. That's what that chemicals we ingest. That's what that\nis. I think he's a great guy. I love the is. I think he's a great guy. I love the is. I think he's a great guy. I love the\nfact that you guys teamed up. Are you fact that you guys teamed up. Are you fact that you guys teamed up. Are you\ncompletely committed to have him a part completely committed to have him a part completely committed to have him a part\nof your administration? Oh, I am. But of your administration? Oh, I am. But of your administration? Oh, I am. But\nthe only thing I want to be a little the only thing I want to be a little the only thing I want to be a little\ncareful about with him is uh the careful about with him is uh the careful about with him is uh the\nenvironmental because, you know, he environmental because, you know, he environmental because, you know, he\ndoesn't like oil. I love oil and gas. I doesn't like oil. I love oil and gas. I doesn't like oil. I love oil and gas. I\nthink, you know, I think it's Leave the think, you know, I think it's Leave the think, you know, I think it's Leave the\noil to me. We have more liquid gold, oil oil to me. We have more liquid gold, oil oil to me. We have more liquid gold, oil\nand gas. We have more liquid gold than and gas. We have more liquid gold than and gas. We have more liquid gold than\nany country in the world, more than any country in the world, more than any country in the world, more than\nSaudi Arabia. We have more than Russia. Saudi Arabia. We have more than Russia. Saudi Arabia. We have more than Russia.\nBobby, stay away from the liquid gold. Bobby, stay away from the liquid gold. Bobby, stay away from the liquid gold.\nOther than that, go have a good time, Other than that, go have a good time, Other than that, go have a good time,\nBobby. But listen, there's plenty of Bobby. But listen, there's plenty of Bobby. But listen, there's plenty of\ngood work that could be done if you good work that could be done if you good work that could be done if you\nfocus on health. Do you have anyone that focus on health. Do you have anyone that focus on health. Do you have anyone that\nis pressuring you to not work with him? is pressuring you to not work with him? is pressuring you to not work with him?\nI think in many ways they've done a good I think in many ways they've done a good I think in many ways they've done a good\njob. In many ways they've done a bad job. In many ways they've done a bad job. In many ways they've done a bad\njob. If you want to see me go to job. If you want to see me go to job. If you want to see me go to\nWashington, you better vote for Donald Washington, you better vote for Donald Washington, you better vote for Donald\nTrump. He's a different kind of a guy. Trump. He's a different kind of a guy. Trump. He's a different kind of a guy.\nHe's very smart, great guy.",
     "rubric": {
-      "hook": true,
-      "oneClaim": true,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 5,
+      "distinctive_twist": 7,
+      "virality_potential": 7,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.1,
+      "viral_potential": "Low"
     }
   },
   {
@@ -221,7 +461,17 @@
     "rubric": {
       "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": false,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 9,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.1,
+      "viral_potential": "Low"
     }
   },
   {
@@ -229,35 +479,75 @@
     "script": "one of the guys that Biden pardoned was one of the guys that Biden pardoned was\none of the people that was involved in one of the people that was involved in one of the people that was involved in\nthat uh kids for cash President Biden in that uh kids for cash President Biden in that uh kids for cash President Biden in\nhis final hours his final morning in his final hours his final morning in his final hours his final morning in\noffice has issued several high-profile office has issued several high-profile office has issued several high-profile\npardons there's a judge in Pennsylvania pardons there's a judge in Pennsylvania pardons there's a judge in Pennsylvania\nthat was making millions of dollars that was making millions of dollars that was making millions of dollars\nthrough putting kids in detention through putting kids in detention through putting kids in detention\ncenters two Lazar County judges were centers two Lazar County judges were centers two Lazar County judges were\naccused of taking Kickbacks in exchange accused of taking Kickbacks in exchange accused of taking Kickbacks in exchange\nfor clearing the way for a privately run for clearing the way for a privately run for clearing the way for a privately run\nJuvenile Detention Center ruining kids' Juvenile Detention Center ruining kids' Juvenile Detention Center ruining kids'\nlives causing downward spiral of their lives causing downward spiral of their lives causing downward spiral of their\nlife like wrongfully detaining them how life like wrongfully detaining them how life like wrongfully detaining them how\nis he getting a kick he's getting is he getting a kick he's getting is he getting a kick he's getting\nKickbacks getting kickbacks from private Kickbacks getting kickbacks from private Kickbacks getting kickbacks from private\nprisons and he's one of the guys Biden prisons and he's one of the guys Biden prisons and he's one of the guys Biden\npardoned",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": true
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 4,
+      "virality_potential": 5,
+      "engagement_potential": 6,
+      "overall_shorts_score": 4.5,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_SLAMS_AOC",
     "script": "Someone talked about the Hunter Biden Someone talked about the Hunter Biden\nlaptop and said it was like half fake laptop and said it was like half fake laptop and said it was like half fake\nterm AOC half fake. Civil rights, voting term AOC half fake. Civil rights, voting term AOC half fake. Civil rights, voting\nrights, but instead we're talking about rights, but instead we're talking about rights, but instead we're talking about\nHunter Biden's half fake laptop story. Hunter Biden's half fake laptop story. Hunter Biden's half fake laptop story.\nThat is such a horrible violation of the That is such a horrible violation of the That is such a horrible violation of the\ntrust that the people who elected you trust that the people who elected you trust that the people who elected you\nput in you. We could be talking about put in you. We could be talking about put in you. We could be talking about\nhealthcare. We could be talking about healthcare. We could be talking about healthcare. We could be talking about\nbringing down the cost of prescription bringing down the cost of prescription bringing down the cost of prescription\ndrugs. You have access to all the drugs. You have access to all the drugs. You have access to all the\ninformation. You have access to that information. You have access to that information. You have access to that\nactual laptop. So, they've dragged a actual laptop. So, they've dragged a actual laptop. So, they've dragged a\nsocial media platform here in Congress. social media platform here in Congress. social media platform here in Congress.\nThey're weaponizing the use of this They're weaponizing the use of this They're weaponizing the use of this\ncommittee so that they can do it again. committee so that they can do it again. committee so that they can do it again.\nA whole hearing about a 24-hour hiccup A whole hearing about a 24-hour hiccup A whole hearing about a 24-hour hiccup\nin a right-wing political operation. The in a right-wing political operation. The in a right-wing political operation. The\nfact that someone would say that's half fact that someone would say that's half fact that someone would say that's half\nfake, but you're just saying it because fake, but you're just saying it because fake, but you're just saying it because\nif you can say it's half fake, you muddy if you can say it's half fake, you muddy if you can say it's half fake, you muddy\nthe water. And now anybody that's the water. And now anybody that's the water. And now anybody that's\nlooking at that could go, \"Oh, yeah, but looking at that could go, \"Oh, yeah, but looking at that could go, \"Oh, yeah, but\nthat's half fake according to my side.\" that's half fake according to my side.\" that's half fake according to my side.\"\nThat is why we are here right now. It's That is why we are here right now. It's That is why we are here right now. It's\njust a an abuse of public resources, an just a an abuse of public resources, an just a an abuse of public resources, an\nabuse of public time. Whenever there's abuse of public time. Whenever there's abuse of public time. Whenever there's\ninformation that's inconveniently bad information that's inconveniently bad information that's inconveniently bad\nfor that one side, particularly the for that one side, particularly the for that one side, particularly the\nleft, you don't hear a peep about it on left, you don't hear a peep about it on left, you don't hear a peep about it on\nthe media.",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": false,
-      "selfSufficient": true
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 8,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.1,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_Shuts_Down_Mikhaila_Peterson",
     "script": "he didn't exercise and he didn't have he didn't exercise and he didn't have\nenough energy to exercise that's nice enough energy to exercise that's nice enough energy to exercise that's nice\nbut it didn't look like that that's not but it didn't look like that that's not but it didn't look like that that's not\ntrue he just didn't do it no i i don't true he just didn't do it no i i don't true he just didn't do it no i i don't\nbelieve that when you say he didn't have believe that when you say he didn't have believe that when you say he didn't have\nenough energy to exercise did he walk enough energy to exercise did he walk enough energy to exercise did he walk\naround well yeah but you can drag around well yeah but you can drag around well yeah but you can drag\nyourself through things and you can drag yourself through things and you can drag yourself through things and you can drag\nyourself through an exercise routine you yourself through an exercise routine you yourself through an exercise routine you\ncan but you must you most certainly can can but you must you most certainly can can but you must you most certainly can\nyou most certainly can you don't have to you most certainly can you don't have to you most certainly can you don't have to\ndo a lot you just have to do something do a lot you just have to do something do a lot you just have to do something\nyou walk up hills you jump a little rope you walk up hills you jump a little rope you walk up hills you jump a little rope\nyou take a little tiny kettlebell you do you take a little tiny kettlebell you do you take a little tiny kettlebell you do\na couple cleans and presses you do a few a couple cleans and presses you do a few a couple cleans and presses you do a few\npush-ups you do a few sit-ups you get push-ups you do a few sit-ups you get push-ups you do a few sit-ups you get\nyour blood pumping you're moving you're your blood pumping you're moving you're your blood pumping you're moving you're\nalive you're exercising to say you don't alive you're exercising to say you don't alive you're exercising to say you don't\nhave enough energy to exercise that's have enough energy to exercise that's have enough energy to exercise that's\ncrazy can you walk to the refrigerator crazy can you walk to the refrigerator crazy can you walk to the refrigerator\nthen you can exercise i'm not saying then you can exercise i'm not saying then you can exercise i'm not saying\nthat you have to run marathons you can that you have to run marathons you can that you have to run marathons you can\nexercise and everyone should [&nbsp;__&nbsp;] exercise and everyone should [&nbsp;__&nbsp;] exercise and everyone should [&nbsp;__&nbsp;]\nexercise",
     "rubric": {
-      "hook": true,
-      "oneClaim": false,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": true,
+      "selfSufficient": false,
+      "early_engagement": 5,
+      "main_idea_clarity": 9,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.1,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_on_CNN_MSNBC",
     "script": "there was a guy who went on it was MSNBC there was a guy who went on it was MSNBC\nor CNN I forget what it was but he was or CNN I forget what it was but he was or CNN I forget what it was but he was\nessentially talking about me and Theo essentially talking about me and Theo essentially talking about me and Theo\nvaugh and all these other podcasts like vaugh and all these other podcasts like vaugh and all these other podcasts like\nflagrant Andrew Schultz as if this is flagrant Andrew Schultz as if this is flagrant Andrew Schultz as if this is\nthis massive right-wing Network that's this massive right-wing Network that's this massive right-wing Network that's\nheavily funded and has been built up heavily funded and has been built up heavily funded and has been built up\nover years and we don't have anything over years and we don't have anything over years and we don't have anything\nlike that it's an elaborate like that it's an elaborate like that it's an elaborate\nmulti-billion dollar infrastructure and multi-billion dollar infrastructure and multi-billion dollar infrastructure and\nthere is nothing like it we don't have there is nothing like it we don't have there is nothing like it we don't have\nthe equivalent of Joe Rogan the equivalent of Joe Rogan the equivalent of Joe Rogan\nyou fcking idiot you can go and watch me you fcking idiot you can go and watch me you fcking idiot you can go and watch me\non a laptop in my [&nbsp;__&nbsp;] Den from 15 16 on a laptop in my [&nbsp;__&nbsp;] Den from 15 16 on a laptop in my [&nbsp;__&nbsp;] Den from 15 16\nyears ago",
     "rubric": {
-      "hook": true,
-      "oneClaim": true,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 9,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.0,
+      "viral_potential": "Low"
     }
   },
   {
@@ -265,17 +555,37 @@
     "script": "That's the problem with the media and That's the problem with the media and\nwith political ideologies is that with political ideologies is that with political ideologies is that\nthere's no currency in common ground. It there's no currency in common ground. It there's no currency in common ground. It\nis clear to me that he is unfit to is clear to me that he is unfit to is clear to me that he is unfit to\nserve, that he is unstable, that he is serve, that he is unstable, that he is serve, that he is unstable, that he is\ndangerous, and that people are dangerous, and that people are dangerous, and that people are\nexhausted. Currency is all in division. exhausted. Currency is all in division. exhausted. Currency is all in division.\nThat's where you can gain the most That's where you can gain the most That's where you can gain the most\nmomentum, get the most people on your momentum, get the most people on your momentum, get the most people on your\nside. You have to say the other people side. You have to say the other people side. You have to say the other people\nare the enemy. Speaking on a call for are the enemy. Speaking on a call for are the enemy. Speaking on a call for\nher campaign last night, crooked Joe her campaign last night, crooked Joe her campaign last night, crooked Joe\nBiden finally said what he and Kamla Biden finally said what he and Kamla Biden finally said what he and Kamla\nreally think of our supporters. He really think of our supporters. He really think of our supporters. He\ncalled them garbage. Common ground is called them garbage. Common ground is called them garbage. Common ground is\nmuch more common. Most people want to be much more common. Most people want to be much more common. Most people want to be\nsafe, they want to be healthy, they want safe, they want to be healthy, they want safe, they want to be healthy, they want\nto be happy, and they think that the to be happy, and they think that the to be happy, and they think that the\nother people are trying to prevent that other people are trying to prevent that other people are trying to prevent that\ninstead of just accentuating those instead of just accentuating those instead of just accentuating those\nimportant factors. And I think we should important factors. And I think we should important factors. And I think we should\nall look at things that prevent that. all look at things that prevent that. all look at things that prevent that.\nWhat are the things that prevent What are the things that prevent What are the things that prevent\nhappiness and love and health? Let's all happiness and love and health? Let's all happiness and love and health? Let's all\nwork collectively together to eliminate work collectively together to eliminate work collectively together to eliminate\nthose aspects of our society.",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": false,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 4,
+      "virality_potential": 4,
+      "engagement_potential": 5,
+      "overall_shorts_score": 4.0,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_on_Elon_Musk_Donald_Trump",
     "script": "what they found so far is very what they found so far is very\nenlightening and it's not good it's not enlightening and it's not good it's not enlightening and it's not good it's not\ngood at all so anybody that's not good at all so anybody that's not good at all so anybody that's not\ncommenting on hey you know what they are commenting on hey you know what they are commenting on hey you know what they are\nfinding a lot of unbelievable waste and finding a lot of unbelievable waste and finding a lot of unbelievable waste and\nCorruption but also he shouldn't be able Corruption but also he shouldn't be able Corruption but also he shouldn't be able\nto do that they're not even saying he's to do that they're not even saying he's to do that they're not even saying he's\nfinding insane waste and Corruption and finding insane waste and Corruption and finding insane waste and Corruption and\nhe's finding this circular Loop of he's finding this circular Loop of he's finding this circular Loop of\nfunding and he's finding this funding and he's finding this funding and he's finding this\nmanipulation of public perception on a manipulation of public perception on a manipulation of public perception on a\nwide variety of issues they were wide variety of issues they were wide variety of issues they were\nactively involved in minding the entire actively involved in minding the entire actively involved in minding the entire\ncountry and no one's addressing that country and no one's addressing that country and no one's addressing that\nfrom the left so they're losing more and from the left so they're losing more and from the left so they're losing more and\nmore credibility",
     "rubric": {
-      "hook": true,
-      "oneClaim": true,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": false,
+      "selfSufficient": false,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 5,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 6,
+      "overall_shorts_score": 4.6,
+      "viral_potential": "Low"
     }
   },
   {
@@ -283,17 +593,37 @@
     "script": "that famous journalist Michael Hastings that famous journalist Michael Hastings\npretty crazy this guy went to pretty crazy this guy went to pretty crazy this guy went to\nAfghanistan with the troops and he was Afghanistan with the troops and he was Afghanistan with the troops and he was\nonly supposed to be there writing a only supposed to be there writing a only supposed to be there writing a\nrolling stone article about this general rolling stone article about this general rolling stone article about this general\nfor a very short amount of time but then for a very short amount of time but then for a very short amount of time but then\nthere was a volcano in Iceland and the there was a volcano in Iceland and the there was a volcano in Iceland and the\nvolcano in Iceland stopped air travel volcano in Iceland stopped air travel volcano in Iceland stopped air travel\nthis journalist from the Rolling Stone this journalist from the Rolling Stone this journalist from the Rolling Stone\nwas embedded in this troop and they was embedded in this troop and they was embedded in this troop and they\nstarted talking sh and he started started talking sh and he started started talking sh and he started\nreporting the they were talking reporting the they were talking reporting the they were talking\nincluding disparaging comments that the including disparaging comments that the including disparaging comments that the\ngeneral had said about Obama so the general had said about Obama so the general had said about Obama so the\ngeneral gets back he has to retire general gets back he has to retire general gets back he has to retire\nrowing Stone exposed it's a big deal rowing Stone exposed it's a big deal rowing Stone exposed it's a big deal\nbecause everybody loves his General so because everybody loves his General so because everybody loves his General so\nhe retires and this Michael Hastings guy he retires and this Michael Hastings guy he retires and this Michael Hastings guy\nis on the run and he's terrified he's is on the run and he's terrified he's is on the run and he's terrified he's\ntelling people people are threatening my telling people people are threatening my telling people people are threatening my\nlife and then he's going down LaBrea and life and then he's going down LaBrea and life and then he's going down LaBrea and\nhis car is going like 120 M an hour and his car is going like 120 M an hour and his car is going like 120 M an hour and\njust slams into a tree and explodes fly just slams into a tree and explodes fly just slams into a tree and explodes fly\nlook at that flying down the street hits look at that flying down the street hits look at that flying down the street hits\na tree and the car explodes they ask a tree and the car explodes they ask a tree and the car explodes they ask\nSecurity Experts at that time is it Security Experts at that time is it Security Experts at that time is it\npossible to control a vehicle remotely possible to control a vehicle remotely possible to control a vehicle remotely\nthey said does your vehicle have a they said does your vehicle have a they said does your vehicle have a\ncomputer your vehicle has a computer computer your vehicle has a computer computer your vehicle has a computer\nthey can control it period",
     "rubric": {
       "hook": false,
-      "oneClaim": false,
-      "selfSufficient": true
+      "oneClaim": true,
+      "selfSufficient": true,
+      "early_engagement": 8,
+      "main_idea_clarity": 7,
+      "no_lulls": 2,
+      "payoff_strength": 6,
+      "context_free_understanding": 7,
+      "distinctive_twist": 7,
+      "virality_potential": 8,
+      "engagement_potential": 7,
+      "overall_shorts_score": 6.0,
+      "viral_potential": "Medium"
     }
   },
   {
     "id": "Joe_Rogan_on_the_Johnny_Depp_and_Amber_Heard_Trial",
     "script": "I didn't watch Aquaman because I'm not I didn't watch Aquaman because I'm not\nI'm not watching any movie with Amber I'm not watching any movie with Amber I'm not watching any movie with Amber\nHeard in it it's a cautionary tale for Heard in it it's a cautionary tale for Heard in it it's a cautionary tale for\npeople that were thinking that it's people that were thinking that it's people that were thinking that it's\nworth it to date a crazy girl because worth it to date a crazy girl because worth it to date a crazy girl because\nshe's great in bed I think he's probably she's great in bed I think he's probably she's great in bed I think he's probably\na really nice guy and he had great a really nice guy and he had great a really nice guy and he had great\nmoments with her and he keeps going back moments with her and he keeps going back moments with her and he keeps going back\nto those Great Moments and thinking they to those Great Moments and thinking they to those Great Moments and thinking they\ncan get past all this craziness",
     "rubric": {
-      "hook": true,
-      "oneClaim": false,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": true,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 7,
+      "no_lulls": 3,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 4,
+      "virality_potential": 4,
+      "engagement_potential": 4,
+      "overall_shorts_score": 4.4,
+      "viral_potential": "Low"
     }
   },
   {
@@ -301,35 +631,75 @@
     "script": "I made a video in 3 days and it looked I made a video in 3 days and it looked\ntoo good. So CNN put a filter on it and too good. So CNN put a filter on it and too good. So CNN put a filter on it and\nmade me look yellow. So we immediately made me look yellow. So we immediately made me look yellow. So we immediately\nthrew the kitchen sink at it. All kinds threw the kitchen sink at it. All kinds threw the kitchen sink at it. All kinds\nof meds, monoconal antibodies, uh, of meds, monoconal antibodies, uh, of meds, monoconal antibodies, uh,\nivormectin, Zpack. I had one day where I ivormectin, Zpack. I had one day where I ivormectin, Zpack. I had one day where I\nfelt like [&nbsp;__&nbsp;] The next day I felt felt like [&nbsp;__&nbsp;] The next day I felt felt like [&nbsp;__&nbsp;] The next day I felt\nbetter. And then the day after that, I better. And then the day after that, I better. And then the day after that, I\nmake this video and I was saying make this video and I was saying make this video and I was saying\nessentially that I had to cancel the essentially that I had to cancel the essentially that I had to cancel the\nshows that I was doing with Dave shows that I was doing with Dave shows that I was doing with Dave\nChappelle that weekend. That's the top Chappelle that weekend. That's the top Chappelle that weekend. That's the top\none is the CNN version and that the the one is the CNN version and that the the one is the CNN version and that the the\nbottom one is the real version. And look bottom one is the real version. And look bottom one is the real version. And look\nat what they did to my face. They made at what they did to my face. They made at what they did to my face. They made\nme look like I was ill. It's crazy what me look like I was ill. It's crazy what me look like I was ill. It's crazy what\nthey did. It's very bizarre. But the they did. It's very bizarre. But the they did. It's very bizarre. But the\nfact that that's a news organization fact that that's a news organization fact that that's a news organization\nthat did that is so terrifying cuz it's that did that is so terrifying cuz it's that did that is so terrifying cuz it's\nsuch a trivial thing. And that they such a trivial thing. And that they such a trivial thing. And that they\nconcentrated on this one uh medication concentrated on this one uh medication concentrated on this one uh medication\nthat my doctor prescribed for me, which that my doctor prescribed for me, which that my doctor prescribed for me, which\nwas Ivormectin. One of those drugs he was Ivormectin. One of those drugs he was Ivormectin. One of those drugs he\nmentioned, Ivormectin is something more mentioned, Ivormectin is something more mentioned, Ivormectin is something more\noften used to deworm horses. They didn't often used to deworm horses. They didn't often used to deworm horses. They didn't\nconcentrate on all the other stuff that concentrate on all the other stuff that concentrate on all the other stuff that\nI took. They didn't concentrate on the I took. They didn't concentrate on the I took. They didn't concentrate on the\nZpack. Joe Rogan went on and said that Zpack. Joe Rogan went on and said that Zpack. Joe Rogan went on and said that\nhe has a virus. This is an antibiotic he has a virus. This is an antibiotic he has a virus. This is an antibiotic\nthat's used for bacteria. They didn't that's used for bacteria. They didn't that's used for bacteria. They didn't\nconcentrate on the prednazone concentrate on the prednazone concentrate on the prednazone\npredinazone which is a steroid predinazone which is a steroid predinazone which is a steroid\nmedication that we use to control medication that we use to control medication that we use to control\ninflammation. They didn't concentrate on inflammation. They didn't concentrate on inflammation. They didn't concentrate on\nthe um monocodal antibodies. This is the um monocodal antibodies. This is the um monocodal antibodies. This is\nactually a legitimate treatment that's actually a legitimate treatment that's actually a legitimate treatment that's\nbeing used widely across the US to being used widely across the US to being used widely across the US to\nprevent severe cases of CO 19 prevent severe cases of CO 19 prevent severe cases of CO 19\nhospitalizations and death or the IV hospitalizations and death or the IV hospitalizations and death or the IV\ndrip of vitamins that I did and NAD the drip of vitamins that I did and NAD the drip of vitamins that I did and NAD the\nNAD plus cocktail. I did a lot of stuff NAD plus cocktail. I did a lot of stuff NAD plus cocktail. I did a lot of stuff\nthat was not the narrative. The that was not the narrative. The that was not the narrative. The\nnarrative is like Joe Rogan is taking narrative is like Joe Rogan is taking narrative is like Joe Rogan is taking\nveterinary medication. Well, in that veterinary medication. Well, in that veterinary medication. Well, in that\nvideo on Instagram, Rogan also said he video on Instagram, Rogan also said he video on Instagram, Rogan also said he\nhad a series of treatments administered had a series of treatments administered had a series of treatments administered\nto treat the virus, including to treat the virus, including to treat the virus, including\nIvormectin, a drug primarily used as a Ivormectin, a drug primarily used as a Ivormectin, a drug primarily used as a\nveterinary dewarming agent.",
     "rubric": {
       "hook": false,
-      "oneClaim": true,
-      "selfSufficient": false
+      "oneClaim": false,
+      "selfSufficient": true,
+      "early_engagement": 5,
+      "main_idea_clarity": 8,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 7,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 6,
+      "overall_shorts_score": 4.9,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Joe_Rogan_s_Entertainment_Business",
     "script": "think about how many people are in think about how many people are in\nHollywood there's a giant percentage of Hollywood there's a giant percentage of Hollywood there's a giant percentage of\nthose people that live there that are those people that live there that are those people that live there that are\nconnected to the entertainment business connected to the entertainment business connected to the entertainment business\nand if you're connected to the and if you're connected to the and if you're connected to the\nentertainment business at the very top entertainment business at the very top entertainment business at the very top\nof the business it's people auditioning of the business it's people auditioning of the business it's people auditioning\nfor things and you have to get liked to for things and you have to get liked to for things and you have to get liked to\nget the things so you get these get the things so you get these get the things so you get these\nimmensely insecure people that are immensely insecure people that are immensely insecure people that are\nusually narcissists and then they mold usually narcissists and then they mold usually narcissists and then they mold\ntheir personality to adapt to this their personality to adapt to this their personality to adapt to this\nenvironment that will reward them for a environment that will reward them for a environment that will reward them for a\ncertain political ideology and so that's certain political ideology and so that's certain political ideology and so that's\nthe top of the and everything emanates the top of the and everything emanates the top of the and everything emanates\ndown from that if you want to be cool down from that if you want to be cool down from that if you want to be cool\nwith Ryan Reynolds you have to talk like with Ryan Reynolds you have to talk like with Ryan Reynolds you have to talk like\nDemocrat at the parties you have to say Democrat at the parties you have to say Democrat at the parties you have to say\nall the things that everybody else is all the things that everybody else is all the things that everybody else is\nsaying you have to agree we need more saying you have to agree we need more saying you have to agree we need more\ngun control you know we should defend gun control you know we should defend gun control you know we should defend\nthe police this is you know you have to the police this is you know you have to the police this is you know you have to\nsay these things and if you don't say say these things and if you don't say say these things and if you don't say\nthese things you don't get to be a part these things you don't get to be a part these things you don't get to be a part\nof the group",
     "rubric": {
-      "hook": true,
-      "oneClaim": false,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": true,
+      "selfSufficient": true,
+      "early_engagement": 6,
+      "main_idea_clarity": 9,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 5,
+      "distinctive_twist": 6,
+      "virality_potential": 5,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.2,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Logan_Paul_on_Joe_Rogan",
     "script": "wait have you not gone on rogan no but wait have you not gone on rogan no but\nyou guys are familiar with each other you guys are familiar with each other you guys are familiar with each other\nyour friends maybe for sure you're not your friends maybe for sure you're not your friends maybe for sure you're not\nfriends not letting me say we're friends not letting me say we're friends not letting me say we're\nacquaintances friendly i think he's acquaintances friendly i think he's acquaintances friendly i think he's\n[&nbsp;__&nbsp;] awesome he's always been so kind [&nbsp;__&nbsp;] awesome he's always been so kind [&nbsp;__&nbsp;] awesome he's always been so kind\nto us even when the world was he's the to us even when the world was he's the to us even when the world was he's the\nman he's yeah dude that's dude every man he's yeah dude that's dude every man he's yeah dude that's dude every\ntime i met him he's awesome no no it's time i met him he's awesome no no it's time i met him he's awesome no no it's\nit's no rush i'm gonna get i'll give him it's no rush i'm gonna get i'll give him it's no rush i'm gonna get i'll give him\na [&nbsp;__&nbsp;] good ass reason to have me on a [&nbsp;__&nbsp;] good ass reason to have me on a [&nbsp;__&nbsp;] good ass reason to have me on\nproper one day you know if he if he proper one day you know if he if he proper one day you know if he if he\ndoesn't feel it's right yeah it's not doesn't feel it's right yeah it's not doesn't feel it's right yeah it's not\nyou know no rush i'll be around",
     "rubric": {
-      "hook": true,
-      "oneClaim": false,
-      "selfSufficient": true
+      "hook": false,
+      "oneClaim": true,
+      "selfSufficient": false,
+      "early_engagement": 7,
+      "main_idea_clarity": 9,
+      "no_lulls": 2,
+      "payoff_strength": 5,
+      "context_free_understanding": 4,
+      "distinctive_twist": 5,
+      "virality_potential": 5,
+      "engagement_potential": 5,
+      "overall_shorts_score": 4.8,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Miley_Cyrus_Disses_Joe_Rogan_on_his_Podcast",
     "script": "yes kennedy you know kennedy is i know yes kennedy you know kennedy is i know\nevery single one they all do the same every single one they all do the same every single one they all do the same\nmove they drop down and do the splits move they drop down and do the splits move they drop down and do the splits\nthat's what i think when i'm watching that's what i think when i'm watching that's what i think when i'm watching\nyour shows too you know all the same your shows too you know all the same your shows too you know all the same\nstuff stuff stuff\nbut this",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": true,
-      "selfSufficient": false
+      "selfSufficient": false,
+      "early_engagement": 6,
+      "main_idea_clarity": 8,
+      "no_lulls": 4,
+      "payoff_strength": 5,
+      "context_free_understanding": 3,
+      "distinctive_twist": 5,
+      "virality_potential": 4,
+      "engagement_potential": 5,
+      "overall_shorts_score": 4.5,
+      "viral_potential": "Low"
     }
   },
   {
@@ -337,17 +707,37 @@
     "script": "when they came at joe rogan and said when they came at joe rogan and said\nthat he was racist i made a post on my that he was racist i made a post on my that he was racist i made a post on my\npage to let people know that joe is my page to let people know that joe is my page to let people know that joe is my\nfriend and i've known him for 12 years friend and i've known him for 12 years friend and i've known him for 12 years\nand i know for a fact that that man is and i know for a fact that that man is and i know for a fact that that man is\nnot racist there's not a racist bone in not racist there's not a racist bone in not racist there's not a racist bone in\nthe guy's body i would defend him to the the guy's body i would defend him to the the guy's body i would defend him to the\nend of the earth but his daughter's end of the earth but his daughter's end of the earth but his daughter's\nblack he's never once mentioned it in black he's never once mentioned it in black he's never once mentioned it in\nall the defenses he could have made he all the defenses he could have made he all the defenses he could have made he\nraised a black girl who loves him very raised a black girl who loves him very raised a black girl who loves him very\nmuch and calls him dad you can't be a much and calls him dad you can't be a much and calls him dad you can't be a\nracist and do that right",
     "rubric": {
       "hook": false,
-      "oneClaim": false,
-      "selfSufficient": true
+      "oneClaim": true,
+      "selfSufficient": false,
+      "early_engagement": 5,
+      "main_idea_clarity": 6,
+      "no_lulls": 2,
+      "payoff_strength": 6,
+      "context_free_understanding": 5,
+      "distinctive_twist": 7,
+      "virality_potential": 5,
+      "engagement_potential": 4,
+      "overall_shorts_score": 4.5,
+      "viral_potential": "Low"
     }
   },
   {
     "id": "Worst_Joke_on_Joe_Rogan_Podcast",
     "script": "I mean that was a lot of people's I mean that was a lot of people's\nperspectives on Hillary Clinton I talked perspectives on Hillary Clinton I talked perspectives on Hillary Clinton I talked\nabout I'm pretty sure everyone loved her about I'm pretty sure everyone loved her about I'm pretty sure everyone loved her\nyeah she she was the most loved I I was yeah she she was the most loved I I was yeah she she was the most loved I I was\nI I liked Elizabeth Warren she's cool I I I liked Elizabeth Warren she's cool I I I liked Elizabeth Warren she's cool I\njust like same I liked her I like I like just like same I liked her I like I like just like same I liked her I like I like\nher tenacity yeah but but okay who isn't her tenacity yeah but but okay who isn't her tenacity yeah but but okay who isn't\nyeah Bernie Sanders okay but did you yeah Bernie Sanders okay but did you yeah Bernie Sanders okay but did you\nvote for Bernie he wasn't available to vote for Bernie he wasn't available to vote for Bernie he wasn't available to\nvote for did you vote in the I didn't vote for did you vote in the I didn't vote for did you vote in the I didn't\nvote for in the prime primaries right vote for in the prime primaries right vote for in the prime primaries right\nyeah yeah yeah\nhe was very sincere okay cool I've had he was very sincere okay cool I've had he was very sincere okay cool I've had\nmy mom on my podcast you wanna Flex",
     "rubric": {
-      "hook": true,
+      "hook": false,
       "oneClaim": true,
-      "selfSufficient": false
+      "selfSufficient": false,
+      "early_engagement": 6,
+      "main_idea_clarity": 7,
+      "no_lulls": 1,
+      "payoff_strength": 5,
+      "context_free_understanding": 6,
+      "distinctive_twist": 7,
+      "virality_potential": 6,
+      "engagement_potential": 7,
+      "overall_shorts_score": 5.0,
+      "viral_potential": "Low"
     }
   }
 ]
