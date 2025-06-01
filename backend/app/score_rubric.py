@@ -193,12 +193,16 @@ class AsyncOpenAIClient:
                     "overall_analysis": {
                         "type": "string",
                         "description": "Brief overall assessment of the content"
+                    },
+                    "rationale": {
+                        "type": "string",
+                        "description": "Concise explanation for the scoring decisions and overall assessment"
                     }
                 },
                 "required": [
                     "hook_score", "virality_score", "clarity_score", "self_sufficiency_score", 
                     "engagement_score", "has_strong_hook", "has_one_claim", "is_self_sufficient",
-                    "hook_explanation", "virality_explanation", "overall_analysis"
+                    "hook_explanation", "virality_explanation", "overall_analysis", "rationale"
                 ],
                 "additionalProperties": False
             }
@@ -227,7 +231,7 @@ Also determine these boolean values:
 - Focuses on one claim (true/false) 
 - Is self-sufficient (true/false)
 
-Provide brief explanations for hook strength and virality potential, and an overall analysis."""}
+Provide brief explanations for hook strength and virality potential, an overall analysis, and a concise rationale explaining the scoring decisions."""}
                 ],
                 temperature=0.1,
                 text={
@@ -1241,7 +1245,8 @@ async def score_script_with_new_rubric(script_data: Dict[str, Any], openai_clien
                 llm_explanations = {
                     'hook': comprehensive_analysis.get('hook_explanation', ''),
                     'virality': comprehensive_analysis.get('virality_explanation', ''),
-                    'overall': comprehensive_analysis.get('overall_analysis', '')
+                    'overall': comprehensive_analysis.get('overall_analysis', ''),
+                    'rationale': comprehensive_analysis.get('rationale', '')
                 }
                 
                 logger.debug("LLM analysis completed successfully")
@@ -1288,6 +1293,71 @@ async def score_script_with_new_rubric(script_data: Dict[str, Any], openai_clien
     if llm_explanations:
         new_scores['explanations'] = llm_explanations
     
+    # Generate rationale for scoring decisions
+    rationale_parts = []
+    
+    # Overall assessment
+    if weighted_score >= 7:
+        rationale_parts.append("Strong shorts potential")
+    elif weighted_score >= 5:
+        rationale_parts.append("Moderate shorts potential")
+    else:
+        rationale_parts.append("Limited shorts potential")
+    
+    # Key strengths
+    strengths = []
+    if new_scores.get('hook', False):
+        strengths.append("strong hook")
+    if new_scores.get('early_engagement', 0) >= 8:
+        strengths.append("high early engagement")
+    if new_scores.get('main_idea_clarity', 0) >= 8:
+        strengths.append("clear main idea")
+    if new_scores.get('context_free_understanding', 0) >= 8:
+        strengths.append("self-contained content")
+    if new_scores.get('distinctive_twist', 0) >= 7:
+        strengths.append("distinctive angle")
+    if new_scores.get('virality_potential', 0) >= 7:
+        strengths.append("viral elements")
+    
+    # Key weaknesses  
+    weaknesses = []
+    if not new_scores.get('hook', False):
+        weaknesses.append("weak hook")
+    if not new_scores.get('oneClaim', False):
+        weaknesses.append("multiple topics")
+    if not new_scores.get('selfSufficient', False):
+        weaknesses.append("requires context")
+    if new_scores.get('no_lulls', 0) <= 3:
+        weaknesses.append("pacing issues")
+    if new_scores.get('payoff_strength', 0) <= 4:
+        weaknesses.append("weak payoff")
+    if new_scores.get('engagement_potential', 0) <= 4:
+        weaknesses.append("low engagement potential")
+    
+    # Construct rationale
+    if strengths:
+        rationale_parts.append("due to " + ", ".join(strengths[:3]))  # Limit to top 3 strengths
+    
+    if weaknesses and weighted_score < 7:
+        rationale_parts.append("but limited by " + ", ".join(weaknesses[:2]))  # Limit to top 2 weaknesses
+     # Add viral potential context if available in explanations
+    if llm_explanations and llm_explanations.get('rationale'):
+        # Use LLM rationale if available
+        new_scores['rationale'] = llm_explanations['rationale']
+    else:
+        # Generate rule-based rationale
+        if llm_explanations and llm_explanations.get('overall'):
+            rationale_parts.append(llm_explanations['overall'][:100])  # Limit to 100 chars
+        elif new_scores.get('viral_potential') == "High":
+            rationale_parts.append("High viral potential from controversial/engaging topic")
+        elif new_scores.get('viral_potential') == "Medium":
+            rationale_parts.append("Medium viral potential")
+        elif weighted_score < 5:
+            rationale_parts.append("Low viral potential")
+        
+        # Add rationale to scores
+        new_scores['rationale'] = ". ".join(rationale_parts) + "."
+
     return new_scores
 
 async def process_file_async(file_path: str, output_path: Optional[str] = None, 
